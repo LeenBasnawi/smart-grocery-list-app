@@ -1,2 +1,2 @@
 # smart-grocery-list-app
-Smart Grocery List App – A React Native cross-platform mobile application developed as part of the CS526 Mobile Application Programming course.
+Smart Grocery List App is a cross-platform mobile application developed using React Native as part of the CS526 Mobile Application Programming course. The application aims to help users organize and manage their grocery shopping efficiently by creating and managing shopping lists, categorizing items, and setting reminders based on time or location. The project demonstrates core mobile development concepts including navigation, state management, local data storage, API integration, and device feature utilization.
