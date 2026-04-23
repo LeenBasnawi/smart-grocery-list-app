@@ -1,4 +1,4 @@
-// screens/remas/NotificationsScreen.js
+// NotificationsScreen: expiry reminder and save settings — Remas
 import React, { useState } from 'react';
 import {
   View,
