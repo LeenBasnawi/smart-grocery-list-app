@@ -1,4 +1,4 @@
-// screens/remas/ProfileSettingsScreen.js
+// ProfileSettingsScreen: user profile, language, navigation links — Remas
 import React, { useState } from 'react';
 import {
   View,
