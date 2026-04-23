@@ -1,4 +1,4 @@
-// screens/remas/AddEditItemScreen.js
+// Final review: all screens connected to AppContext — Remas
 import React, { useState, useEffect } from 'react';
 import {
   View,
